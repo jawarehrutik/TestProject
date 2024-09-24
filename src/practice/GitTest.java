@@ -8,4 +8,9 @@ public class GitTest {
 
 	}
 
+	public static void Dev()
+	{
+		System.out.println("Dev Method");
+	}
+
 }

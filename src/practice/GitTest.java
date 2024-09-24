@@ -8,5 +8,13 @@ public class GitTest {
 
 	}
 
+	public static void QAA() {
+		
+		System.out.println("QAA Method");
+
+	}
+
+	
+
 
 }

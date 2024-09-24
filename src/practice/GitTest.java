@@ -12,6 +12,10 @@ public class GitTest {
 	{
 		System.out.println("Dev Method");
 	}
+	public static void Dev1()
+	{
+		System.out.println("Dev Method");
+	}
 
 	public static void Qa()
 	{

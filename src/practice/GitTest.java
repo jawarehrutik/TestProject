@@ -13,4 +13,8 @@ public class GitTest {
 		System.out.println("Dev Method");
 	}
 
+	public static void Qa()
+	{
+		System.out.println("QA Method");
+	}
 }

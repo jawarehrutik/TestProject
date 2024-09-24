@@ -13,8 +13,8 @@ public class GitTest {
 		System.out.println("Dev Method");
 	}
 
-	public static void Qa()
+	public static void QA()
 	{
-		System.out.println("QA Method");
+		System.out.println("QA Method Testing");
 	}
 }

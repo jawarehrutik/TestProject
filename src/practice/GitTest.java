@@ -8,11 +8,18 @@ public class GitTest {
 
 	}
 
+	public static void QAA() {
+		
+		System.out.println("QAA Method");
+
+	}
+
 	public static void dev() {
 		
 		System.out.println("dev method");
 
 	}
+
 
 
 
